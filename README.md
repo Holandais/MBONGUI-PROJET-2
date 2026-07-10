@@ -14,3 +14,8 @@ Les rôles :
 Un conflit est survenu dans `index.html` et `style.css` lors de la fusion.  
 Il a été résolu en supprimant les marqueurs de conflit et en fusionnant manuellement le contenu avant de valider le commit.
 
+
+
+## lien GitHub Pages 
+
+https://holandais.github.io/MBONGUI-PROJET-2/
