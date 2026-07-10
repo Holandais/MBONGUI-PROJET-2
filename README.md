@@ -1,5 +1,7 @@
 # MBONGUI_PROJET 2
 
+ ##  THEME : Artisanat local
+
 Nom du groupe : MBONGUI_PROJET 2
 
 Les rôles : 
